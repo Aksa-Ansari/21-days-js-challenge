@@ -14,7 +14,7 @@ I have started my 21 Days of Problem Solving with JavaScript challenge.
 
 | Day | Problem | Solution | Status |
 |-----|----------|-----------|--------|
-| 1 | Reverse a String  | [View Code](Day01_.js) | ✅ |
+| 1 | Solve Number Problems  | [View Code](https://github.com/Aksa-Ansari/21-days-js-challenge/tree/main/Day01) | ✅ |
 
 *(I will keep updating this repo daily with my solutions!)*  
 
