@@ -25,4 +25,4 @@ It was really fun to see how each problem helped me think step by step!
 
 ---
 
-### ❤️ Made with love by [Aksa Ansari](https://github.com/Aksa-Ansari)
+###  Made with ❤️ by [Aksa Ansari](https://github.com/Aksa-Ansari)
