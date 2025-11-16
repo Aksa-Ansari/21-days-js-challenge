@@ -18,6 +18,7 @@ I have started my 21 Days of Problem Solving with JavaScript challenge.
 | 2 | Conditions & Logic Problems  | [View Code](https://github.com/Aksa-Ansari/21-days-js-challenge/tree/main/Day02) | ✅ |
 | 3 | Pattern Printing  | [View Code](https://github.com/Aksa-Ansari/21-days-js-challenge/tree/main/Day03) | ✅ |
 | 4 | Decimal Number System  | [View Code](https://github.com/Aksa-Ansari/21-days-js-challenge/tree/main/Day04) | ✅ |
+| 5 | Factors & Multiples  | [View Code](https://github.com/Aksa-Ansari/21-days-js-challenge/tree/main/Day05) | ✅ |
 
 *(I will keep updating this repo daily with my solutions!)*  
 
